@@ -83,16 +83,6 @@ Within your group, use the following formats:
 
 The bot will detect these prefixes, process the query, and reply.
 
----
-
-##  Notes
-
-* Ensure that you’re logged into ChatGPT/Gemini/Ollama beforehand if required.
-* To avoid rate limits, keep usage reasonable.
-* You can adapt the script to add more models, custom commands, or logging.
-
----
-
 ##  Security
 
 * Never share or commit your API keys.
