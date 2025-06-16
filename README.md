@@ -105,5 +105,4 @@ The bot will detect these prefixes, process the query, and reply.
 This project is for **non-commercial**, educational use only.
 Not affiliated with WhatsApp, Google, OpenAI, or DeepSeek.
 
-```
 
