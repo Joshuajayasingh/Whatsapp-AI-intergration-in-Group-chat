@@ -1,11 +1,11 @@
 
-# 🤖 WhatsApp AI Chatbot (Gemini + DeepSeek)
+#  WhatsApp AI Chatbot (Gemini + DeepSeek)
 
 This is a Python-based chatbot that automatically responds to messages in a WhatsApp group using **Google Gemini** or **DeepSeek** AI models.
 
 ---
 
-## ⚠️ DISCLAIMER
+##  DISCLAIMER
 
 This script is intended for **educational and personal use only**.  
 **Use at your own risk** — automating interactions with WhatsApp Web may **violate their Terms of Service**, and **your account may be restricted or banned**.  
@@ -13,18 +13,18 @@ The author is **not responsible** for any misuse, bans, or consequences resultin
 
 ---
 
-## ✅ Features
+##  Features
 
-- 🧠 Uses **Google Gemini API** and **DeepSeek (via Ollama)** to answer queries
-- 🤖 Listens for special prefixes in group messages:
+-  Uses **Google Gemini API** and **DeepSeek (via Ollama)** to answer queries
+-  Listens for special prefixes in group messages:
   - `@gemini` → routed to Gemini
   - `@deepseek` → routed to DeepSeek
-- 💬 Sends AI-generated responses back to the group using Selenium
-- 🖥️ Runs inside **Edge browser** using WebDriver
+-  Sends AI-generated responses back to the group using Selenium
+-  Runs inside **Edge browser** using WebDriver
 
 ---
 
-## 🔧 Setup
+##  Setup
 
 ### Requirements
 
@@ -59,7 +59,7 @@ Ensure that:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Run the script:
 
@@ -74,7 +74,7 @@ python "Whatsapp chatbots.py"
 
 ---
 
-## 💬 Commands
+##  Commands
 
 Within your group, use the following formats:
 
@@ -85,7 +85,7 @@ The bot will detect these prefixes, process the query, and reply.
 
 ---
 
-## 📌 Notes
+##  Notes
 
 * Ensure that you’re logged into ChatGPT/Gemini/Ollama beforehand if required.
 * To avoid rate limits, keep usage reasonable.
@@ -93,14 +93,14 @@ The bot will detect these prefixes, process the query, and reply.
 
 ---
 
-## 🔐 Security
+##  Security
 
 * Never share or commit your API keys.
 * For safety, consider storing them in environment variables.
 
 ---
 
-## 📜 License
+##  License
 
 This project is for **non-commercial**, educational use only.
 Not affiliated with WhatsApp, Google, OpenAI, or DeepSeek.
